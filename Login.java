@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.poe_chatappassignment;
- import com.mycompany.poe_chatappassignment.POE_ChatAppAssignment.Login;
+package com.mycompany.Message;
+ import com.mycompany.Message.Login;
 
-    class login {
+    class Login {
         
         //conditions
         public static boolean cheakUsername(String username) {
@@ -35,7 +35,3 @@ package com.mycompany.poe_chatappassignment;
         }
         
         }
-
-
-    
-
